@@ -4,7 +4,7 @@
 
 ## Leveraging Foundation Models for Enhanced Detection of Colorectal Cancer Biomarkers in Small Datasets
 
-  [Conference Paper](https://doi.org/10.1007/978-3-031-66955-2_23) | [Open-Access Paper](https://risweb.st-andrews.ac.uk/ws/portalfiles/portal/305637545/) | [Dataset](https://doi.org/10.6019/S-BIAD1285) | [Cite](#reference) 
+  [Conference Paper](https://doi.org/10.1007/978-3-031-66955-2_23) | [Open-Access Paper](https://rdcu.be/dPaVZ) | [Dataset](https://doi.org/10.6019/S-BIAD1285) | [Cite](#reference) 
 
 <details>
 <summary>Abstract:</summary>
